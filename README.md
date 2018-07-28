@@ -1,4 +1,4 @@
-# instadefuse
+# Insta Defuse
 Plugin to allow CT's to instantly defuse the bomb when no T's are alive and other circumstances
 
 A simple plugin made for retake servers or anything similar. 
@@ -15,6 +15,7 @@ sm_instadefuse_enabled - 1 by default (to enable or disable plugin)
 Have any questions add me on steam (comment on profile before add) - https://steamcommunity.com/id/Jacoblairm
 
 Change Log:
+
 v1.2.1 - Fixed bug with v1.2, Molotovs now correctly detected. 
 
 v1.2 - Molotovs now prevent instant defusal if close enough to the bomb. 
