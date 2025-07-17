@@ -12,8 +12,6 @@ If there are no active Molotov's that could damage the defuser
 Commands:
 sm_instadefuse_enabled - 1 by default (to enable or disable plugin)
 
-Have any questions add me on steam (comment on profile before add) - https://steamcommunity.com/id/Jacoblairm
-
 Change Log:
 
 v1.2.1 - Fixed bug with v1.2, Molotovs now correctly detected. 
